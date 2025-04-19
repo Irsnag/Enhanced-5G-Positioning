@@ -1,3 +1,5 @@
+openExample('5g/NewRadioAIBasedPositioningExample')
+
 simParameters.TrainRatio      = 0.85; % Define the ratio of training data relative to validation and test data
 
 simParameters.Scenario        = "InF-DH"; % "InF-SL", "InF-DL", "InF-SH", "InF-DH", "InF-HH"
